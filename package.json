@@ -1,0 +1,27 @@
+{
+  "name": "konjosolar",
+  "version": "1.0.0",
+  "description": "solar tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konjoinfinity/konjosolar.git"
+  },
+  "keywords": [
+    "konjo",
+    "solar",
+    "tracker"
+  ],
+  "author": "konjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konjoinfinity/konjosolar/issues"
+  },
+  "homepage": "https://github.com/konjoinfinity/konjosolar#readme",
+  "dependencies": {
+    "node": "^16.6.1"
+  }
+}
